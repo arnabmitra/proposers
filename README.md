@@ -8,6 +8,6 @@ quality guarantees.
 ```sh
 npm install
 # Put your network's Tendermint RPC endpoint here
-export ENDPOINT=https://nois.rpc.bccnodes.com/
+export ENDPOINT=https://rpc.test.provenance.io/
 npm test
 ```
